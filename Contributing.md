@@ -24,6 +24,7 @@
 5. Create an issue with the format given below
    - Issue title: repository-name - issue-name
    - Issue description: issue-description (to be added as the first comment in the issue)
+   - Assignee : your name, GitHub profile
 6. Get the desired issue assigned to you
 7. Read the readme.md file for every repository you select to work on
 8. Create a PR and wait for it to get merged!
