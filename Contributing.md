@@ -22,8 +22,8 @@
 3. Clone the repository to your local machine
 4. Add your name in contributing.md file
 5. Create an issue with the format given below
-   - Issue title: <repository-name> - <issue-name>
-   - Issue description: <issue-description> (to be added as the first comment in the issue)
+   - Issue title: repository-name - issue-name
+   - Issue description: issue-description (to be added as the first comment in the issue)
 6. Get the desired issue assigned to you
 7. Read the readme.md file for every repository you select to work on
 8. Create a PR and wait for it to get merged!
