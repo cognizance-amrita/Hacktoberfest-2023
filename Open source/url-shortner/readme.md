@@ -47,7 +47,7 @@ These features can be added through your Pull requests
 
 1. Fork this repo
 2. Clone the forked repo
-3. Create a new branch
+3. Create an issue as mentioned in contributing.md
 4. Make your changes
 5. Commit and push your changes
 6. Create a pull request

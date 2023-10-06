@@ -21,11 +21,14 @@
 2. Fork this repository
 3. Clone the repository to your local machine
 4. Add your name in contributing.md file
-5. Get the desired issue assigned to you
-6. Read the readme.md file for every repository you select to work on
-7. Create a PR and wait for it to get merged!
-8. Extraeneous PRs will be marked as spam
-9. You need to make 4 PRs to win an exclusive Hacktoberfest 2023 merch, check the website for more information
+5. Create an issue with the format given below
+   - Issue title: <repository-name> - <issue-name>
+   - Issue description: <issue-description> (to be added as the first comment in the issue)
+6. Get the desired issue assigned to you
+7. Read the readme.md file for every repository you select to work on
+8. Create a PR and wait for it to get merged!
+9. Extraeneous PRs will be marked as spam
+10. You need to make 4 PRs to win an exclusive Hacktoberfest 2023 merch, check the website for more information
 
 # Contributors
 
