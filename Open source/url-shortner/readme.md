@@ -63,6 +63,6 @@ These features can be added through your Pull requests
 
 - [yarn](https://yarnpkg.com/)
 - [node](https://nodejs.org/en/)
-- [express] (https://expressjs.com/)
-- [mongoose] (https://mongoosejs.com/)
-- [mongodb] (https://www.mongodb.com/)
+- [express](https://expressjs.com/)
+- [mongoose](https://mongoosejs.com/)
+- [mongodb](https://www.mongodb.com/)

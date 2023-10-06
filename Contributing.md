@@ -1,7 +1,7 @@
 # Rules
 
 1. The repository contains 3 folders, Basic-Programming, Data-Structures and Algorithms, Open-Source
-2. Basic-Programming is exclusively for first years, to enable them to
+2. Basic-Programming is exclusively for first years, to enable them to contribute
 3. The other two is exclusively for second years, third years and fourth years, but first years can also contribute
 4. Before contributoing to any repository, read the readme.md file and understand the problem statement
 5. Wait for the issue to be assigned to you, before you start working on it
@@ -10,14 +10,14 @@
 
 # Resources
 
-1. [what is open source] https://www.digitalocean.com/community/tutorials/what-is-open-source
-2. [how to contribute] https://opensource.guide/how-to-contribute/
-3. [training kit] https://github.github.com/training-kit/
-4. [hacktoberfest participation] https://hacktoberfest.com/participation
+1. [what is open source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+2. [how to contribute](https://opensource.guide/how-to-contribute/)
+3. [training kit](https://github.github.com/training-kit/)
+4. [hacktoberfest participation](https://hacktoberfest.com/participation)
 
 # Contributing
 
-1. Register for hactoberfest over here as a contributor. [register] https://hacktoberfest.com/
+1. Register for hactoberfest over here as a contributor. [register](https://hacktoberfest.com/)
 2. Fork this repository
 3. Clone the repository to your local machine
 4. Add your name in contributing.md file
