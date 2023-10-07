@@ -1,17 +1,19 @@
+## Please check out the official website for Merchandise and sticker. Hacktoberfest merchandise may change year to year
+
 # Rules
 
 1. The repository contains 3 folders, Basic-Programming, Data-Structures and Algorithms, Open-Source
 2. Basic-Programming is exclusively for first years, to enable them to contribute
-3. The other two is exclusively for second years, third years and fourth years, but first years can also contribute
-4. Before contributoing to any repository, read the readme.md file and understand the problem statement
-5. Wait for the issue to be assigned to you, before you start working on it
+3. The other two are exclusively for second years, third years and fourth years, but first years can also contribute
+4. Before contributing to any repository, read the readme.md file and understand the problem statement
+5. Wait for the issue to be assigned to you before you start working on it
 6. If you have any doubts, feel free to contact the mentors
 7. You can also create your own issue if you have any idea, but contact maintainers regarding the same
 
 # Resources
 
 1. [what is open source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
-2. [how to contribute](https://opensource.guide/how-to-contribute/)
+2. [How to contribute](https://opensource.guide/how-to-contribute/)
 3. [training kit](https://github.github.com/training-kit/)
 4. [hacktoberfest participation](https://hacktoberfest.com/participation)
 
