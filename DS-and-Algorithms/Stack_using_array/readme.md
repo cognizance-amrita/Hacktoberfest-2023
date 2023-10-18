@@ -1,4 +1,4 @@
-Write a program to implement stack using array.
+Write a program to implement a stack using an array.
 
 ## Methods
 
@@ -10,5 +10,5 @@ Write a program to implement stack using array.
 
 ## References
 
-- [Stack using array](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
-- [Stack using array](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm)
+- [Stack using array - GeeksforGeeks ](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
+- [Stack using array - Tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm)
