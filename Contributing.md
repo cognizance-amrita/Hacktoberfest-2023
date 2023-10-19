@@ -38,6 +38,7 @@
 format: <name|github-username|year|branch>
 
 1. Tarun R G - Tr1ck-5t3r - Third Year - CSE
+2. Arvind Sivakumar - Programmer-Arvind - First Year - CSE
 
 # Maintainers
 
