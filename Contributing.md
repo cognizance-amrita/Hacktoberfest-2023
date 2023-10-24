@@ -40,6 +40,7 @@ format: <name|github-username|year|branch>
 1. Tarun R G - Tr1ck-5t3r - Third Year - CSE
 2. Arvind Sivakumar - Programmer-Arvind - First Year - CSE
 3. M A Sai Adithyaa - M-A-SAIADITHYAA -  First year - CSE
+4. Abhijith Prakash - IndexPosition - Third year - CSE
 
 # Maintainers
 
